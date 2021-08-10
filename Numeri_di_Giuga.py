@@ -17,7 +17,7 @@
 #1.910.667.181.420.507.984.555.759.916.338.506
 #4.200.017.949.707.747.062.038.711.509.670.656.632.404.195.753.751.630.609.228.764.416.142.557.211.582.098.432.545.190.323.474.818
 
-#abbandonato: funzionava ma è troppo lento, non potevo aspettarmi diversamente visto che ne sono not 13 e l'ultimo è esageratamente lungo
+#abbandonato: funzionava ma è troppo lento, non potevo aspettarmi diversamente visto che ne sono noti 13 e l'ultimo è esageratamente lungo
 
 #per gentile concessione, mi serviva che fosse veloce
 def numeri_primid(n: int) -> dict:
